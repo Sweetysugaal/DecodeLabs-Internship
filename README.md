@@ -138,7 +138,7 @@ Handling spaces and punctuation
 Encryption/decryption validation
 Git and GitHub workflow
 
-📁 View Project 2
+📁 [View Project 2](./Project_2/)
 ----------
 ## 🔄 Internship Progress
 
