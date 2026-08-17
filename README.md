@@ -123,10 +123,22 @@ The project introduced:
 
 **Status:** ✅ Completed
 
-Implemented a Caesar cipher in Python that encrypts and decrypts user-provided text using a configurable shift key.
+Built a Python program that encrypts and decrypts user-provided text using a Caesar cipher and a user-defined shift key.
 
-The project demonstrates character encoding, modular arithmetic, encryption/decryption logic, edge-case handling, and validation.
+The project introduced:
 
+Basic encryption and decryption concepts
+Caesar cipher logic
+ord() and chr()
+Modular arithmetic
+Python functions
+for loops
+String handling
+Handling spaces and punctuation
+Encryption/decryption validation
+Git and GitHub workflow
+
+📁 View Project 2
 ----------
 ## 🔄 Internship Progress
 
