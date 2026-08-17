@@ -43,10 +43,10 @@ I will update this section as I complete each project.
 | Project   | Title                        | Status      |
 | --------- | ---------------------------- | ----------- |
 | Project 1 | Password Strength Checker 🔐 | ✅ Completed |
-| Project 2 | Coming Soon                  | ⏳ Upcoming  |
+|Project 2 | Basic Encryption & Decryption | ✅ Completed |
 | Project 3 | Coming Soon                  | ⏳ Upcoming  |
 | Project 4 | Coming Soon                  | ⏳ Upcoming  |
-| Project 5 | Coming Soon                  | ⏳ Upcoming  |
+
 
 > This table will be updated throughout the internship as new projects are assigned and completed.
 
@@ -118,8 +118,16 @@ The project introduced:
 
 📁 [View Project 1](./Project_1/)
 
----
 
+### Project 2 — Basic Encryption & Decryption 🔐
+
+**Status:** ✅ Completed
+
+Implemented a Caesar cipher in Python that encrypts and decrypts user-provided text using a configurable shift key.
+
+The project demonstrates character encoding, modular arithmetic, encryption/decryption logic, edge-case handling, and validation.
+
+----------
 ## 🔄 Internship Progress
 
 I will continue updating this repository throughout the internship.
@@ -134,7 +142,8 @@ DecodeLabs-Internship/
 │   └── pass_checker.py
 │
 ├── Project_2/
-│   └── ...
+│   └── README.md
+|   |__caesar_cypher.py 
 │
 ├── Project_3/
 │   └── ...
